@@ -2,9 +2,8 @@
 
 cl-selenim-webdriver is a binding library to the Selenium 2.0
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/TatriX/cl-selenium-webdriver.git   |
-| commit  | 51a4b68  |
-| systems | cl-selenium-webdriver |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------|
+| source  | git:https://github.com/TatriX/cl-selenium-webdriver.git |
+| commit  | 51a4b68                                                 |
+| systems | cl-selenium                                             |
+|---------+---------------------------------------------------------|
