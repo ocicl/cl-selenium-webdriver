@@ -7,3 +7,4 @@ cl-selenim-webdriver is a binding library to the Selenium 2.0
 | commit  | 51a4b68                                                 |
 | systems | cl-selenium                                             |
 |---------+---------------------------------------------------------|
+ 
